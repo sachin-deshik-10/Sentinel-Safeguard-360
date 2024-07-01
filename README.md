@@ -1,6 +1,6 @@
 # Sentinel Safeguard 360: Smart Protection with AI
 
-## Project Overview
+## Introduction
 **Sentinel Safeguard 360** is an innovative solution aimed at revolutionizing security protocols by leveraging advanced AI algorithms, robust hardware components, and efficient communication systems. This autonomous security patrol robot is designed to enhance security measures across various environments, ensuring proactive and effective threat detection and response.
 
 ## Problem Statement
