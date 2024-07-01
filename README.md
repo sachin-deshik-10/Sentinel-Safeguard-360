@@ -34,7 +34,8 @@ The Sentinel Safeguard 360 robot employs sophisticated SLAM algorithms for accur
 - **MQTT Protocol**: Sends real-time notifications to user devices.
   
 ### Connection Diagram
-![Connection Diagram](https://drive.google.com/file/d/1cwItm6PWIRVNIh_fk9lSIsK9oXjjuMGn/view?usp=sharing)
+![Connection Diagram](https://drive.google.com/uc?export=view&id=1cwItm6PWIRVNIh_fk9lSIsK9oXjjuMGn)
+
 ### Pin Connections
 
 | Component          | ESP32 CAM Pin | Description                 |
