@@ -1,0 +1,35 @@
+html-<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sentinel Safeguard 360: Smart Protection with AI</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Sentinel Safeguard 360: Smart Protection with AI</h1>
+        <h2>Team Engineers - ELCIA Hackathon</h2>
+    </header>
+    <main>
+        <section id="image-display">
+            <h3>Captured Image</h3>
+            <img id="captured-image" src="https://t3.ftcdn.net/jpg/04/79/14/04/360_F_479140492_IoZVw8cX4ujiQP2ik2hdelZ1nwORkBlF.jpg" alt="Captured Image">
+        </section>
+        <section id="pir-and-time">
+            <div id="pir-sensor">
+                <h3>Distance of Suspect</h3>
+                <p id="distance">Loading...</p>
+            </div>
+            <div id="current-time">
+                <h3>Current Time</h3>
+                <p id="current-time-value">Loading...</p>
+            </div>
+        </section>
+    </main>
+    <footer>
+        &copy; 2024 Team Engineers. All rights reserved.
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
