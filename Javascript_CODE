@@ -1,0 +1,27 @@
+javascript-document.addEventListener('DOMContentLoaded', () => {
+    // Simulate updating PIR sensor distance
+    function updateDistance() {
+        // Replace with actual method to get PIR sensor data
+        const distance = Math.random() * 100; // Simulated distance
+        document.getElementById('distance').textContent = ${distance.toFixed(2)} cm;
+    }
+
+    // Update distance every 2 seconds
+    setInterval(updateDistance, 2000);
+    function getCurrentTime() {
+        fetch('http://worldtimeapi.org/api/ip')
+            .then(response => response.json())
+            .then(data => {
+                const currentTime = new Date(data.datetime);
+                const formattedTime = currentTime.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' });
+                document.getElementById('current-time-value').textContent = formattedTime;
+            })
+            .catch(error => {
+                console.error('Error fetching current time:', error);
+            });
+    }
+    
+    // Update current time initially and then every minute
+    getCurrentTime();
+    setInterval(getCurrentTime, 60000); // Update every minute
+});
