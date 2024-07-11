@@ -73,6 +73,8 @@ The AI-powered security system is expected to significantly enhance security in 
 ### WEBPAGE INTERFACE
 ![WhatsApp Image 2024-07-04 at 13 09 28_6c5aeb00](https://github.com/GOUTHAMBB/Sentinel-Safeguard-360/assets/110834190/12d56152-eeb1-4e38-a562-7dd12086b5ea)
 
+### RESULTS
+
 ## Conclusion
 The Sentinel Safeguard 360 system combines intelligent hardware, AI algorithms, and efficient communication channels to enhance security. By detecting threats in real-time and providing proactive alerts, this solution aims to improve safety for various stakeholders. The user-friendly interface and MQTT server integration ensure seamless interaction and peace of mind.
 
