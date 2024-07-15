@@ -83,7 +83,9 @@ The AI-powered security system is expected to significantly enhance security in 
 
 ## PRACTICAL VIDEO:
 
-https://github.com/GOUTHAMBB/Sentinel-Safeguard-360/assets/110834190/d3761188-de25-468f-843b-3c876f24984a
+https://github.com/user-attachments/assets/217bbdf6-9a3e-47af-88f0-6b3923dbd5c4
+
+
 
 
 ## Conclusion
